@@ -1,3 +1,5 @@
+![](/Jason%20Israilov%20GitHub%20Banner.gif)
+
 # Hello World! 👋
 My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! 🚀
 
