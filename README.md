@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello World! 👋
+My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! 🚀
 
-<!--
-**jasonisrailov/jasonisrailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 😄 Pronouns: he/him
+- 🎓 Education: Michigan State University
+- 🌱 I’m currently learning Flask (Python framework)
+- 📚 I'm currently reading *Cracking the Coding Interview* by Gayle Laakmann McDowell
+- 🎯 Goals: Develop solutions to solve challenging work problems
+- 🎲 And ... I play ⛳️ golf and ♟️ chess
+- ⚡ Fun fact: I wrote my first "Hello, World!" program in middle school and won 2nd place in a hackathon in high school!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Website
+🌐 Check out my [personal website!](https://jasonisrailov.com?utm_source=github "Jason Israilov's Personal Website")
