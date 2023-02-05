@@ -14,3 +14,5 @@ My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! �
 
 ## Personal Website
 🌐 Check out my [personal website!](https://jasonisrailov.com?utm_source=github "Jason Israilov's Personal Website")
+
+Connect with me on [LinkedIn](https://linkedin.com/in/jasonisrailov "Jason Israilov's LinkedIn Profile") and [Twitter](https://twitter.com/jasonisrailov "Jason Israilov's Twitter Profile")!
