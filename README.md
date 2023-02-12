@@ -1,4 +1,6 @@
-<img src="/Jason Israilov Banner.gif" width="100%" height="100%">
+<img src="/Jason Israilov GitHubBanner.png" width="100%" height="100%">
+
+<!--  Need to update this to picture and not gif since gif is not <50MB -->
 
 # Hello World! 👋
 My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! 🚀
@@ -24,4 +26,11 @@ My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! �
 # 🛠️ My Skill Set:
 
 ### Frontend Languages and Frameworks
-[<img src="/skills-icons/HTML.svg" height="40em" align="center" alt="HTML Icon"/>] [<img src="/skills-icons/CSS.svg" height="40em" align="center" alt="CSS Icon"/>] [<img src="/skills-icons/JavaScript.svg" height="40em" align="center" alt="JavaScript Icon"/>] [<img src="/skills-icons/React-Dark.svg" height="40em" align="center" alt="React Icon"/>] [<img src="/skills-icons/MaterialUI-Dark.svg" height="40em" align="center" alt="MaterialUI Icon"/>] [<img src="/skills-icons/RaspberryPi-Dark.svg" height="40em" align="center" alt="RaspberryPi Icon"/>] [<img src="/skills-icons/Arduino.svg" height="40em" align="center" alt="Arduino Icon"/>]
+<img src="/skills-icons/HTML.svg" height="40em" align="center" alt="HTML Icon"/><img src="/skills-icons/CSS.svg" height="40em" align="center" alt="CSS Icon"/><img src="/skills-icons/JavaScript.svg" height="40em" align="center" alt="JavaScript Icon"/><img src="/skills-icons/React-Dark.svg" height="40em" align="center" alt="React Icon"/><img src="/skills-icons/MaterialUI-Dark.svg" height="40em" align="center" alt="MaterialUI Icon"/><img src="/skills-icons/RaspberryPi-Dark.svg" height="40em" align="center" alt="RaspberryPi Icon"/><img src="/skills-icons/Arduino.svg" height="40em" align="center" alt="Arduino Icon"/>
+
+### Backend Languages and Frameworks
+<img src="/skills-icons/Python-Dark.svg" height="40em" align="center" alt="Python Icon"/><img src="/skills-icons/Flask-Dark.svg" height="40em" align="center" alt="Flask Icon"/><img src="/skills-icons/C.svg" height="40em" align="center" alt="C Icon"/><img src="/skills-icons/CPP.svg" height="40em" align="center" alt="C Plus Plus Icon"/><img src="/skills-icons/Java-Dark.svg" height="40em" align="center" alt="Java Icon"/><img src="/skills-icons/Swift.svg" height="40em" align="center" alt="Swift Icon"/><img src="/skills-icons/MySQL-Dark.svg" height="40em" align="center" alt="MySQL Icon"/>
+
+### DevOps and Tools
+<img src="/skills-icons/GCP-Dark.svg" height="40em" align="center" alt="Google Cloud Platform Icon"/><img src="/skills-icons/Git.svg" height="40em" align="center" alt="Git Icon"/><img src="/skills-icons/GitHub-Dark.svg" height="40em" align="center" alt="GitHub Icon"/><img src="/skills-icons/GitLab-Dark.svg" height="40em" align="center" alt="GitLab Icon"/><img src="/skills-icons/Docker.svg" height="40em" align="center" alt="Docker Icon"/><img src="/skills-icons/Linux-Dark.svg" height="40em" align="center" alt="Linux Icon"/><img src="/skills-icons/VSCode-Dark.svg" height="40em" align="center" alt="VSCode Icon"/><img src="/skills-icons/Cloudflare-Dark.svg" height="40em" align="center" alt="Cloudflare Icon"/><img src="/skills-icons/Atom.svg" height="40em" align="center" alt="Atom Icon"/>
+<img src="/skills-icons/Discord.svg" height="40em" align="center" alt="Discord Icon"/>
