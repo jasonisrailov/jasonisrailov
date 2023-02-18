@@ -101,4 +101,4 @@ My name is Jason Israilov and Software Engineer 👨‍💻 from Detroit, MI! �
 # Personal Website & Social Media
 [<img src="/social-icons/Jason-Icon.png" height="40em" align="center" alt="Jason Israilov Personal Website Logo" title="Connect with Jason Israilov through his personal website"/>](https://jasonisrailov.com?utm_source=github) [<img src="/social-icons/LinkedIn.svg" height="40em" align="center" alt="LinkedIn App Logo" title="Connect with Jason Israilov on LinkedIn"/>](https://linkedin.com/in/jasonisrailov) [<img src="/social-icons/Twitter.svg" height="40em" align="center" alt="Twitter App Logo" title="Connect with Jason Israilov on Twitter"/>](https://twitter.com/jasonisrailov)
 
-![](https://komarev.com/ghpvc/?jasonisrailov&color=0083ff)
+![](https://komarev.com/ghpvc/?username=jasonisrailov&color=0083ff)
